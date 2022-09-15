@@ -21,5 +21,5 @@ public:
 	Number getX() const;
 	Number getY() const;
 };
-extern VECTORDll const Vector ONE;
-extern VECTORDll const Vector ZERO;
+const Vector ZERO = Vector(Zero, Zero);
+const Vector ONE = Vector(One, One);

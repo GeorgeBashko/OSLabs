@@ -3,9 +3,6 @@
 #include "MyVector.h";
 #include <math.h>
 
-const Vector ONE = Vector(One, One);
-const Vector ZERO = Vector(Zero, Zero);
-
 Vector::Vector(Number a, Number b) : x(a), y(b) {}
 
 double Vector::angelCacl()
