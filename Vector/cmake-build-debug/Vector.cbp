@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Vector"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Number">
+				<Option output="/home/geprge/CLionProjects/Vector/cmake-build-debug/libNumber.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Number"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Number/fast">
+				<Option output="/home/geprge/CLionProjects/Vector/cmake-build-debug/libNumber.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Number/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector">
+				<Option output="/home/geprge/CLionProjects/Vector/cmake-build-debug/libVector.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Vector"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector/fast">
+				<Option output="/home/geprge/CLionProjects/Vector/cmake-build-debug/libVector.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Vector/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/geprge/CLionProjects/Vector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/geprge/CLionProjects/Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/geprge/CLionProjects/Number/Number.cpp">
+			<Option target="Number"/>
+		</Unit>
+		<Unit filename="/home/geprge/CLionProjects/Number/Number.h">
+			<Option target="Number"/>
+		</Unit>
+		<Unit filename="/home/geprge/CLionProjects/Number/cmake-build-debug/libNumber.a">
+			<Option target="Number"/>
+		</Unit>
+		<Unit filename="/home/geprge/CLionProjects/Vector/Vector.cpp">
+			<Option target="Vector"/>
+		</Unit>
+		<Unit filename="/home/geprge/CLionProjects/Vector/Vector.h">
+			<Option target="Vector"/>
+		</Unit>
+		<Unit filename="/home/geprge/CLionProjects/Vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
