@@ -1,5 +1,0 @@
-/home/geprge/CLionProjects/MainTest/cmake-build-debug/CMakeFiles/MainTest.dir
-/home/geprge/CLionProjects/MainTest/cmake-build-debug/CMakeFiles/Number.dir
-/home/geprge/CLionProjects/MainTest/cmake-build-debug/CMakeFiles/Vector.dir
-/home/geprge/CLionProjects/MainTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/geprge/CLionProjects/MainTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

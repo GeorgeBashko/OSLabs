@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libVector.so -o libVector.so CMakeFiles/Vector.dir/home/geprge/CLionProjects/Vector/Vector.cpp.o 

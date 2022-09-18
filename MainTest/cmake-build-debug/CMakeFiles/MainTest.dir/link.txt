@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/MainTest.dir/main.cpp.o -o MainTest  -Wl,-rpath,/home/geprge/CLionProjects/MainTest/cmake-build-debug libNumber.a libVector.so 
