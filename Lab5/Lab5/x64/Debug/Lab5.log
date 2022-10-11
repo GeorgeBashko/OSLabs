@@ -1,0 +1,8 @@
+﻿  Lab5.cpp
+  Matrix.cpp
+C:\Users\NIKJOR\source\repos\bsu-labs1\OS\Lab5\Lab5\Lab5\Matrix.cpp(18,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIKJOR\source\repos\bsu-labs1\OS\Lab5\Lab5\Lab5\Matrix.cpp(23,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIKJOR\source\repos\bsu-labs1\OS\Lab5\Lab5\Lab5\Matrix.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MatrixMultiplicator.cpp
+  Создание кода...
+  Lab5.vcxproj -> C:\Users\NIKJOR\source\repos\bsu-labs1\OS\Lab5\Lab5\x64\Debug\Lab5.exe
