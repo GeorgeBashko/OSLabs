@@ -1,6 +1,0 @@
-# ninja log v5
-1	494	6876185122624863	build.ninja	8655aed4959f13d
-1	1308	6876188339984056	CMakeFiles/Channel.dir/buffered_channel.cpp.obj	a95f0411d125cafc
-1310	2196	6876188348844830	Channel.exe	1e20a92a60870d7b
-2	901	6876188653846071	CMakeFiles/Channel.dir/buffered_channel.cpp.obj	a95f0411d125cafc
-901	982	6876188654642967	Channel.exe	1e20a92a60870d7b
