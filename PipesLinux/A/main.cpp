@@ -8,7 +8,7 @@ int main() {
     int value;
     std::string result;
     while (ss >> value) {
-        result.append(std::to_string(value+6)+" ");
+        result.append(std::to_string(value+3)+" ");
     }
     std::cout << result <<"\n";
     return 0;
