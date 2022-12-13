@@ -17,7 +17,7 @@ string parseString(string input){
         input.erase(input.begin(), end);
 
         int num = stoi(tmp, nullptr, 10);
-        output.append(to_string(num + 2) + " ");
+        output.append(to_string(num + 3) + " ");
     }
     return output;
 }
